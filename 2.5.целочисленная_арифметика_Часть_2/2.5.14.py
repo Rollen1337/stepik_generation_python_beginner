@@ -1,0 +1,7 @@
+n = int(input())
+print(n)
+print(n // 100, n % 10, (n % 100) // 10, sep = "")
+print((n % 100) // 10, n // 100, n % 10, sep = "")
+print((n % 100) // 10, n % 10, n // 100, sep = "")
+print(n % 10, n // 100, (n % 100) // 10, sep = "")
+print(n % 10, (n % 100) // 10, n // 100, sep = "")

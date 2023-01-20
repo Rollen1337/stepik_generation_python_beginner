@@ -1,0 +1,5 @@
+raz = input ()
+odin = input ()
+dva = input ()
+tri = input ()
+print(odin, dva, tri, sep=raz)
