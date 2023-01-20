@@ -1,0 +1,6 @@
+me = input()
+its = input()
+hello = input()
+print (hello)
+print (its)
+print (me)

@@ -1,0 +1,6 @@
+iwas = input()
+print (iwas)
+born = input()
+print (born)
+thisway = input()
+print (thisway)
